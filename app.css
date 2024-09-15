@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.my-navbar {
+    background-color: #333333; /* Grigio scuro */
+    padding: 10px 20px;
+}
+
+.nav-link {
+    color: #cccccc; /* Grigio chiaro per il contrasto */
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+}
+
+.navbar-toggler {
+    color:#cccccc;
+}
+
+.responsive-toggler {
+    color: #cccccc;
+    background-color: #ffffff;
+}

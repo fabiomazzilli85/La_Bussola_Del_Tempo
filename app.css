@@ -59,6 +59,9 @@ body {
 
 h1 {
     position: relative;
+    font-family: "Caveat", cursive;
+    font-weight: 300;
+    max-width: 750px;
     color: white;
     font-size: 3em;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);

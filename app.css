@@ -69,7 +69,15 @@ h1 {
     z-index: 2;
 }
 
+h3 {
+    font-size: 18px;
+}
+
 .container-fluid {
     margin: 0;
     padding: 0;
+}
+
+.home-iwc {
+    width: 100%;
 }

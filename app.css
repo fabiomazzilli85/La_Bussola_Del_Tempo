@@ -81,3 +81,25 @@ h3 {
 .home-iwc {
     width: 100%;
 }
+
+.content {
+    background-color: #333333;
+}
+
+h5 {
+    color: #C96868;
+}
+
+.card-body {
+    background-color: #FFF4EA;
+}
+
+.btn {
+    background-color: #FADFA1;
+    border: none;
+    color: #242424;
+}
+
+.btn:hover {
+    background-color: #C96868;
+}

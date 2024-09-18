@@ -5,9 +5,10 @@
 }
 
 body {
-    font-family: "SUSE", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-size: 16px;
+    color: #333333;
 }
 
 .my-navbar {
@@ -71,6 +72,7 @@ h1 {
 
 h3 {
     font-size: 18px;
+    font-family: "Roboto", sans-serif;
 }
 
 .container-fluid {
@@ -88,16 +90,18 @@ h3 {
 
 h5 {
     color: #C96868;
+    font-family: "Roboto", sans-serif;
 }
 
 .card-body {
-    background-color: #FFF4EA;
+    background-color: #FADFA1;
 }
 
 .btn {
-    background-color: #FADFA1;
+    background-color: #FFF4EA;
     border: none;
     color: #242424;
+    font-weight: 300;
 }
 
 .btn:hover {
